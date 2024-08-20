@@ -17,9 +17,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo Video
 
-Check out the demo video below to see the Ecommerce-website in action:
-
-[Demo Video](./path/to/demo-video.mp4)
+https://github.com/user-attachments/assets/a05ac3da-afe1-4ed1-90de-141afe7bb2d0
 
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
