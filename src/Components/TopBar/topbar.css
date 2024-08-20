@@ -1,0 +1,101 @@
+.parent1{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    height: 40px;
+}
+
+.child11{
+    color: white;
+    margin-left: 6.5rem;
+    font-size: 13.5px;
+    line-height: 18px;
+    margin-top: 0.8rem;
+    font-size: 13px;
+}
+
+.child12{
+    margin-left: 54rem;
+    margin-top: 0.5rem;
+}
+
+.child13{
+    border: none;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    font-size: 13px;
+}
+
+.child13 option{
+    background-color: white;
+    color: black;
+}
+
+.child14{
+    margin-right: 7rem;
+    margin-top: 0.8rem;
+    font-size: 13px;
+}
+
+.child15{
+    border: none;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+.child15 option{
+    background-color: white;
+    color: black;
+}
+
+                                                /* Another section */
+
+.parent2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.child21{
+    margin-left: 3.7rem;
+    padding: 3rem;
+    margin-top: -0.4rem;
+}
+.child22:hover{
+    color: rgb(193, 30, 30);
+    cursor: pointer;
+}
+.child23{
+    margin-left: 2.5rem;
+}
+.child23:hover{
+    color: rgb(193, 30, 30);
+    cursor: pointer;
+}
+
+.child24{
+    height: 35px;
+    width: 130px;
+    margin-top: 2.6rem;
+}
+
+.child25{
+    margin-right: 4rem;
+    padding: 3rem;
+    margin-top: -0.4rem;
+}
+
+.child26{
+    border: none;
+}
+
+.child26:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.child26 option{
+    background-color: white;
+    color: black;
+}

@@ -1,0 +1,142 @@
+
+.parent4{
+    display: flex;
+    justify-content: space-between;
+}
+.child41{
+    align-items: center;
+    justify-content: center;
+    margin-left: 6rem;
+    margin-top: 3rem;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.child42{
+    margin-top: 2rem;
+    font-size: 55px;
+    font-weight: 900;
+    text-align: center;
+    line-height: 60px;
+}
+
+.child43{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 24px;
+    margin-top: 1rem;
+}
+
+.child44{
+    font-size: 14px;
+    font-weight: 600;
+    align-items: center;
+    margin-left: 8.2rem;
+    line-height: 16px;
+    border-radius: 4rem;
+    width: 9rem;
+    height: 3rem;
+    background-color: black;
+    color: white;
+    margin-top: 2.6rem;
+
+}
+.Makeup{
+    display: flex;
+}
+.Makeup1{
+    height: 38rem;
+    margin-top: -2rem;
+    width: 32rem;
+}
+
+.Makeup2{
+    height: 38rem;
+    margin-top: -2rem;
+    width: 32rem;
+    margin-left: 0.5rem;
+}
+
+                                     /* Aonther section  */
+
+.parent5{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5rem;
+    margin-left: 2rem;
+}
+
+.child51 img{
+    height: 52px;   
+}
+
+.child51 h5{
+    margin-left: 4rem;
+    margin-top: -3.5rem;
+    font-weight: 700;
+}
+
+.child51 p{
+    margin-left: 4rem;
+    font-size: 15px;
+}
+
+                                     /* Aonther section  */
+
+.parent6{
+    display: flex;
+    justify-content: space-between;
+}
+
+.child61{
+    margin-left: 4rem;
+    margin-top: 4rem;
+    height: 550px;
+    width: 740px;
+}
+
+.child62{
+    text-align: center;
+    margin-top: -16rem;
+    margin-left: 5rem;
+    font-weight: 700;
+}
+
+.child62 h2{
+    font-size: 55px;
+}
+
+.child62 button{
+    border-radius: 3rem;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    padding: 0.8rem 2.4rem;
+}
+
+.child63{
+    margin-right: 20rem;
+    margin-top: 4rem;
+    height: 550px;
+    width: 740px;
+}
+
+.child64{
+    text-align: center;
+    margin-top: -16rem;
+    margin-left: 5rem;
+    font-weight: 700;
+}
+
+.child64 h2{
+    font-size: 55px;
+}
+
+.child64 button{
+    border-radius: 3rem;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    padding: 0.8rem 2.4rem;
+}

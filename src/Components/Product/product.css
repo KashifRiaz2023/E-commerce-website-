@@ -1,0 +1,72 @@
+.Feature{
+text-align: center;
+margin-top: 6rem;
+margin-bottom: 3rem;
+}
+.parent8{
+  display: flex;
+  justify-content: space-around;
+}
+.parent9 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.parent10{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 6rem;
+}
+.parent10 img{
+  width: 55%;
+  height: 40rem;
+}
+
+.child101{
+  align-items: center;
+  justify-content: center;
+  margin-right: 5.5rem;
+  margin-top: 3rem;
+}
+
+.child102{
+  margin-top: 2rem;
+  font-size: 48px;
+  font-weight: 800;
+  text-align: center;
+  line-height: 55px;
+}
+
+.child103{
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  line-height: 24px;
+  margin-top: 1rem;
+}
+
+.child104{
+  font-size: 14px;
+  font-weight: 600;
+  align-items: center;
+  margin-left: 11rem;
+  line-height: 16px;
+  border-radius: 4rem;
+  width: 9rem;
+  height: 3rem;
+  background-color: black;
+  color: white;
+  margin-top: 2.6rem;
+
+}
+.Images{
+display: flex;
+margin-top: -12rem;
+height: 12rem;
+width: 2rem;
+margin-left: 60rem;
+}
+
+#images{
+  margin-left: 2rem;
+}

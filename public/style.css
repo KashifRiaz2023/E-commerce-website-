@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent;
+    font-family: "Albert+Sans", sans-serif;
+  }
+  
+  body {
+    background: rgb(242, 241, 236);
+    color: black;
+    overflow: hidden;
+    overflow-y: scroll;
+  }
